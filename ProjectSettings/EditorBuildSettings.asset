@@ -6,15 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: 626bf3de4a20b914cba747dcca938514
-  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: e5fb9c4882a608a47b6a024059a69fee
   - enabled: 1
+    path: Assets/Scenes/MenuHamburguesas.unity
+    guid: b2c815c6fb4884b42817b37068877aea
+  - enabled: 1
+    path: "Assets/Scenes/MenuAcompa\xF1amientos.unity"
+    guid: c9841856f4f245345a53714755e80dbe
+  - enabled: 1
+    path: Assets/Scenes/MenuBebidas.unity
+    guid: b88ab1636bf908b43ba02873585a9a3e
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/Hamburguesa 2.unity
-    guid: 827514a3f15bb054db2de6790007e024
   m_configObjects: {}
