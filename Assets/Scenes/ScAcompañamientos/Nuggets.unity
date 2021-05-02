@@ -341,8 +341,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.639648, y: -255.95885}
-  m_SizeDelta: {x: 259.6, y: 40}
+  m_AnchoredPosition: {x: -18.639648, y: -288}
+  m_SizeDelta: {x: 259.6, y: 53.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &443562297
 MonoBehaviour:
@@ -365,7 +365,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 2b8c95a9f7b7c8745be9c5eccd8489d7, type: 3}
-    m_FontSize: 14
+    m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -376,7 +376,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Una deliciosa hamburguesa con queso,carne de res, lechuga y tomate.
+  m_Text: "Deliciosos complementos de nuggets de pollo apanado. \xA1Perfectos para
+    comer como abrebocas! Ord\xE9nalos con salsas de tu gusto."
 --- !u!222 &443562298
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -847,7 +848,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: $ 14.900
+  m_Text: $ 10.500
 --- !u!222 &765632181
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -919,13 +920,13 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 53
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: HAMBURGUESA SENCILLA
+  m_Text: NUGGETS
 --- !u!222 &773589521
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1131,7 +1132,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6bc05475b723f954696da217ca31e3b3, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
