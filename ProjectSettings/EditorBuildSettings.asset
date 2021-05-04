@@ -36,6 +36,9 @@ EditorBuildSettings:
     path: "Assets/Scenes/ScAcompa\xF1amientos/Piernas.unity"
     guid: eea674cca1641eb4b9da3c2da688b5ec
   - enabled: 1
+    path: Assets/Scenes/MainMenus/MenuHamburguesas.unity
+    guid: fa7dfdfd1cf07404c865969667ec0706
+  - enabled: 1
     path: Assets/Scenes/ScBebidas/Dew.unity
     guid: f1e8d6d2b631a764ca8c85db28642a67
   - enabled: 1
@@ -51,17 +54,17 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenus/MenuBebidas.unity
     guid: b88ab1636bf908b43ba02873585a9a3e
   - enabled: 1
-    path: Assets/Scenes/MainMenus/MenuHamburguesas.unity
-    guid: b2c815c6fb4884b42817b37068877aea
-  - enabled: 1
     path: Assets/Scenes/MainMenus/MenuHelp.unity
     guid: f0e0a4fa45578844baa4998d4bcaa9a1
   - enabled: 1
     path: Assets/Scenes/ScBebidas/Sprite.unity
     guid: 46988a13a6db34841985dd4fbe553526
   - enabled: 1
-    path: Assets/Scenes/SCPlatosFuertes/PerroSimple.unity
+    path: Assets/Scenes/SCPlatosFuertes/Hamburguesa1.unity
     guid: 201d168aeacfbac448a2f6b2aaefe73f
+  - enabled: 1
+    path: Assets/Scenes/SCPlatosFuertes/PerroEspecial.unity
+    guid: ea9c4293446cfa148826cf0149418a64
   - enabled: 1
     path: Assets/Scenes/SampleScene 1.unity
     guid: dc34df34fbf5492498984d0ed29c4dbc
