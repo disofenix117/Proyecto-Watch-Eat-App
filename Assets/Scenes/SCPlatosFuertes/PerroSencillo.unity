@@ -121,6 +121,90 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &179251952
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 697509039}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30.783045
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30.783045
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30.783045
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.005
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f24ec38d81dcf8f42b9c9c2992a26099,
+        type: 3}
+      propertyPath: m_Name
+      value: Perro_Caliente_2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f24ec38d81dcf8f42b9c9c2992a26099, type: 3}
 --- !u!1 &254760481
 GameObject:
   m_ObjectHideFlags: 0
@@ -307,90 +391,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a99091c6aef6cd4191c57f9eac6486a, type: 3}
---- !u!1001 &435654988
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 697509039}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 32.771
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 32.771
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 32.771
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.021
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.003
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.77
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 6f175e979507afc45a90a0894f4367bc,
-        type: 3}
-      propertyPath: m_Name
-      value: Perro_Caliente_1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6f175e979507afc45a90a0894f4367bc, type: 3}
 --- !u!1 &443562295
 GameObject:
   m_ObjectHideFlags: 0
@@ -1013,7 +1013,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PERRO CALIENTE ESPECIAL
+  m_Text: PERRO CALIENTE SENCILLO
 --- !u!222 &773589521
 CanvasRenderer:
   m_ObjectHideFlags: 0

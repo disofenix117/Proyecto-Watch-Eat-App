@@ -66,6 +66,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SCPlatosFuertes/PerroEspecial.unity
     guid: ea9c4293446cfa148826cf0149418a64
   - enabled: 1
+    path: Assets/Scenes/SCPlatosFuertes/PerroSencillo.unity
+    guid: 0d4238245f7e3494bb7d5825fa6bf6f0
+  - enabled: 1
     path: Assets/Scenes/SampleScene 1.unity
     guid: dc34df34fbf5492498984d0ed29c4dbc
   m_configObjects: {}
